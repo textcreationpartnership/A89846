@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The railer rebuked, in a reply to a paper subscribed Ellis Bradshaw, who calls it The Quakers whitest devil unvailed: but hath discovered a dark devil in himself, as in his paper appears, / replied by him who is called James Nailer.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89846</idno>
+            <idno type="STC">Wing N306</idno>
+            <idno type="STC">Thomason E830_4</idno>
+            <idno type="STC">ESTC R203039</idno>
+            <idno type="EEBO-CITATION">99863134</idno>
+            <idno type="PROQUEST">99863134</idno>
+            <idno type="VID">115317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115317)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E830[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The railer rebuked, in a reply to a paper subscribed Ellis Bradshaw, who calls it The Quakers whitest devil unvailed: but hath discovered a dark devil in himself, as in his paper appears, / replied by him who is called James Nailer.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication supplied and publication date suggested by Wing.</note>
+                  <note>Annotation on Thomason copy: "March. 12. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bradshaw, Ellis. --  Quakers whitest divell unvailed, and their sheeps cloathing pulled off, that their woolvish inside may be easily discerned.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115317:1" rendition="simple:additions"/>
+            <head>The Railer Rebuked, in a reply to a paper ſubſcribed <hi>Ellis Brad<g ref="char:EOLhyphen"/>ſhaw,</hi> who calls it The <hi>Quakers</hi> whiteſt devil unvailed: But hath diſcovered a dark Devil in himſelf, as in his paper ap<g ref="char:EOLhyphen"/>pears, replied by him who is called <hi>James Nailer.</hi>
+            </head>
+            <epigraph>
+               <q>Now is the Lord raining ſnares on the wicked, and thick dark<g ref="char:EOLhyphen"/>neſſe ſhall cover them.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He fruitfull generation we owne and witneſſe, and ſo we profeſſe and practiſe as that generation ever did who in all ages have ever borne witneſs againſt the worlds un<g ref="char:EOLhyphen"/>righteous wayes, falſe Faiths, and formall worſhips, which hire<g ref="char:EOLhyphen"/>lings and falſe prophets have ſet up in their imaginations from the letter: and that faith we know and the fruits of it: which ever were found enemies and falſe accuſers, of thoſe who were led by that ſpirit which is before the letter was, by which the letter was brought into the wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld, which the prince of this world hath ever made uſe on to withſtand ſuch as brought forth the life of the ſcriptures into the world. And that under the name of ſome zea<g ref="char:EOLhyphen"/>lous profeſſion<g ref="char:punc">▪</g> calling themſelves Jews children of <hi>Abraham,</hi> the Temple circumciſion and ſuch like, even as you now who profeſs Faith and Baptiſme, calling your ſelves Chriſtians, but are found in direct oppoſition (as thou ſaieſt) unto this generation of ſuffe<g ref="char:EOLhyphen"/>rers and meſſengers of God, ſlandering, nick-naming them, but calling themſelves Chriſtians, and there the ſerpent would hide his head, but out of your holes you muſt come, by your fruits to be tri<g ref="char:EOLhyphen"/>ed what ſort of Chriſtians you are<g ref="char:punc">▪</g> for they were no Chriſtians who upheld the hirelings, and pleaded for them, as thou doſt: nor they who called them Maſters; they were no Chriſtians who wor<g ref="char:EOLhyphen"/>ſhipped in the Idolls Temple, who beat in the ſynagogues, and hailed before Rulers, and impriſoned ſuch as came to witneſs a<g ref="char:EOLhyphen"/>gainſt the hirelings, and their Idoll worſhip. They were no Chri<g ref="char:EOLhyphen"/>ſtians that ſued people for Tithes or wages, and bare rule by their means, nor the people that loved to have it ſo, and called ſuch faithfull labourers, as thou doſt. They were no Chriſtians who by petitions or otherwiſe ſtirred up the powers of the earth againſt the innocent to perſecute and kill the perſons for reproving their wickedneſs, or who laid ſnares for ſuch as reproved ſin in the gates: theſe were the wolves and are the wolves Chriſt ſpeaks on, who
+<pb n="2" facs="tcp:115317:2" rendition="simple:additions"/>
+are out of the light of Chriſt: and that is the ſpirit of Antichriſt in thee that pleads for ſuch, and calls them helps and means to guide in all the waies of God, who are found in the ſteps of the Phariſees and falſe prophets, withſtanding the waies of God, in the deviſes of men, and by their fruits they are known: and who calles theſe ſheep are blind, though with the name of Chriſtians they be cloa<g ref="char:EOLhyphen"/>ted: and theſe are they with which thou are ſeriouſly engaged (as thou ſaiſt) to deny all who ſpeak againſt them, and here thou art engaged againſt Chriſt, and the ſeared conſcience thou ſpeakeſt on appears in upholding ſuch as the ſcripture condemnes which thou calleſt faithfull labourers; and belieſt Chriſt ſaying he hath thruſt them forth, who hath ever denied ſuch, and thoſe that upheld them, but they have thruſt themſelves in, and runne unſent, for gifts and rewards: And thou denieſt the life of Chriſt, therefore muſt needs bring forth the life of the devil, and plead for it in others, ſlander<g ref="char:EOLhyphen"/>ing and lying, upon us, and the ſpirit of God, ſaying it teacheth you not to own any perfection in Chriſt as properly yours: and here I charge thee before the Lord whom thou haſt denied, to ſtop thy mouth for ever meddling to judge of the people of Chriſt, his righteouſneſs or perfection, who haſt no propriety in it, but haſt denied him before all men to be properly thine; for who hath him, hath his perfection, whom we witneſs to be freely given to us of our Father, and him we have received, and he is properly ours, with all his perfection and power, in him we have power to do the will of God, and through him that ſtrengthens us, can do all things that God requires of us; which thou denieſt alſo: and here<g ref="char:EOLhyphen"/>in we juſtifie God, and his gift to be perfect, and the power of God in Chriſt his will to do, and his law to fulfill in us, and this is the righteous Covenant God hath given, which we witneſs, and if any abide not in the will of God, and this power, but go into con<g ref="char:EOLhyphen"/>demnation, let God be clear of his blood for ever who is departed out of the way of God, and his power, which is perfect freedome to all that abide in it: But this the babes know, and not the wolves; and the purity of Chriſt we owne, (which thou denieſt) and that hope that leads thee to it is the hope of the hippocrite, and ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l pe<g ref="char:EOLhyphen"/>riſh: and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l that have Chriſt have the true light and word with<g ref="char:EOLhyphen"/>in them, and need go no more out to ſeeke it in <hi>Babel,</hi> though thou wouldſt imply the contrary: and this the Apoſtles miniſtred out, which was within in them: and this word and light we wit<g ref="char:EOLhyphen"/>neſs in us, which cannot be contained, nor darkneſs comprehend it<g ref="char:punc">▪</g> And thou talkes of the ſpirit teaching you that Chriſt your righte<g ref="char:EOLhyphen"/>ouſneſs
+<pb n="3" facs="tcp:115317:2"/>
+was ſacrificed for you, and in another place thou ſaiſt, the ſpirit teached you to deny his perfection to be yours: But what ſpirit is this which ownes his righteouſneſs and denies her perfe<g ref="char:EOLhyphen"/>ction; is not his righteouſneſs perfection? this is the lying ſpirit thou chargeſt us with, which thou liſtens to, which rules in thy de<g ref="char:EOLhyphen"/>luded heart; and manifeſt is thy confuſion to all who know Chriſt and his perfection. And thou ſayeſt you have no intent to eſtabliſh your own righteouſneſs, but what elſe canſt thou eſtabliſh who haſt not that righteouſneſſe thine which is perfect; that is thine own which is not perfect, for the leaſt meaſure of the righteouſneſs of Chriſt is perfect: thou ſayeſt the ſpirit of God teacheth you to honour all men: and here thou art ſeen in thy own will, and per<g ref="char:EOLhyphen"/>ſonal admiration, honouring thou knowſt not what with the proud cloathing, and the gold ring, men in their greatneſs and pride, and this is not in the Lord, but in the earth: and thou belyeſt the ſpirit of God, if thou doe ſay it teacheth this honour, and condem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es the practiſe of the Saints, yea Chriſt himſelf, who could not honour <hi>Herod</hi> here, but called him a Fox, though he was a king: and by the ſpirit of Jeſus that honour is judged to be for the duſt, and that which here thou honoureſt, for condemnation. But that which is honoured by the ſpirit of God is that power which is of God, in whom ever he hath placed it without reſpect of perſons, that ſword that cuts down ſin, and executeth the Law of God upon offenders without reſpect of perſons, they that reſiſt this power receive to themſelves damnation, which that in every conſcience doth wit<g ref="char:EOLhyphen"/>neſs, and there is honour to whom honour is due, But no place for pride, nor the prince of pride to be worſhiped, who therefore rages and ſaies, (in them where he is exalted) that we would deſtroy Mgiſtracy, but is a Liar and hath ſo been proved in all ages, for that ſpirit which denies to honour men in their pride, preſerves Magiſtra<g ref="char:EOLhyphen"/>cy, even from ſuch as will bow and flatter to the face, but would deſtroy in ſecret, and that ſeed was manifeſt in <hi>Mordecai,</hi> who ſa<g ref="char:EOLhyphen"/>ved the Kings life, and yet would not obey his commands to Bow to <hi>Hamans</hi> pride, alſo in Chriſt, and many of the dear ſervants of God who never went about to deſtroy Magiſtracy but preſerved it, who ſaid, give <hi>Ceſar</hi> his due, and God his due, and yet was accuſed to be an enemy to <hi>Ceſar,</hi> by thoſe who were ene<g ref="char:EOLhyphen"/>mies both to <hi>Ceſar</hi> and God, and yet had a large profeſſion as thou haſt who art found in the ſame accuſation; and ſo the devil hath been in all ages, who cannot have that ſeed to bow to him, in proud man in whom he is exalted above all that is called God;
+<pb n="4" facs="tcp:115317:3"/>
+for that ſeed is taught of God what to honour, and to honour that which God honours, and this is no ſpirit of deluſion, incivility, or like brute beaſts as thou calleſt it, for that is the Beaſt which wor<g ref="char:EOLhyphen"/>ſhips the Beaſt and his Image, where it is; and thou art the falſe prophet that pleads for it, and this we judge not before the time (as thou accuſeſt us) for the Son of God is come, to whom all judgement belongs, and hath given us an underſtanding in all theſe things, and the ſpirit of judgement is powred out, and the prince of this world is judged and condemned, and the Dragon, and the hireling, and the deceiver, and the proud, and the carnall (thor ſpeakeſt on) which thou would have ſpared under a pretence of charity; and ſayes, the ſpirit of God teacheth ſo, which the ſpirit of God hath ever con<g ref="char:EOLhyphen"/>demned ſuch; but this is the ſpirit of the devil who under pretence of charity would keep his own workes from judgement, the proud, the carnall, the hireling, and the deceiver, and demonſtrated this is though the blind cannot ſee it: and thy charity I deny, who loves theſe things &amp; would hold them up. And he that is riſen to overturn theſe, his work ſhall praiſe him in the gate, &amp; flatterers ſhall run to the mountains to cover them: and thou ſaies I bely your doctrine, becauſe I deny that faith which cannot believe ſalvation from ſin to the ut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ermoſt, or that ſaies they have Chriſt and have not power. To which I anſwer, they that ſay none can be free from committing ſin while they live, (as your teachers do) hold forth that faith which I deny. And for Chriſt having impowred any to do the will of God, thou thy felf oppoſes in this paper: and here I have not belied your doctrine, but the lie is thy own, though thou ſay the ſpirit teacheth to ſpeak truth in love and meekneſs; and this doctrine is quite con<g ref="char:EOLhyphen"/>trary to the word and promiſe of God, who ſaid he ſhould ſave his people from their ſins, and preſent holy without ſpot or wrinckle or any ſuch thing, and this we know, and are one with him, but thou who haſt not propriety in his perfection, art ignorant of it, and therefore thinkes us to be ſo too; And thou chargeſt us for deny<g ref="char:EOLhyphen"/>ing that faith to be in Chriſt, whoſe righteouſneſs is not perfect, be<g ref="char:EOLhyphen"/>cauſe the righteouſneſs of Chriſt is perfect: To which I affirm that becauſe the righteouſneſſe of Chriſt is perfect: therefore that faith I deny to be in Chriſt which layes hold upon an imperfect righte<g ref="char:EOLhyphen"/>ouſneſs; And thou ſayeſt the righteouſneſs of Chriſt is not proper<g ref="char:EOLhyphen"/>ly ours, but onely through frith, and here thou denies faith to be pro<g ref="char:EOLhyphen"/>per, or the gift of God by faith received to be properly ours; &amp; then God hath given an improper thing, which is not theirs, for believers to be ſaved by; and this is thy doctrine and conjured ſtuff from the
+<pb n="5" facs="tcp:115317:3"/>
+letter, imagined by a ſpirit of direct oppoſition (as thou ſayeſt) thou haſt againſt us; and rather then thou wilt be ſilent thou wilt ſpeak thou knowſt not what. And thou takeſt offence that we ſhould wit<g ref="char:EOLhyphen"/>neſs the life of Chriſt, or that he that hath this hope purifieth himſelf as he is pure, and when thou haſt done, thou ſaiſt thou endeavoureſt to purifie thy ſelf even as he is pure; and here thou diſcovereſt thy wolfiſh inſide (thou tells on) who accuſeſt us for witneſſing the Scripture in that which thou thy ſelf endeavours after; and divers o<g ref="char:EOLhyphen"/>ther things thy miſchievous mind murmurs at, and in thy paper wonldſt caſt a miſt before the truth, but dare not deny them, and here thy whited devil is ſeen and bound: And thou ſayeſt thou haſt learned not to account thy ſelf already perfect: I anſwer, what per<g ref="char:EOLhyphen"/>fection canſt thou have who denieſt the perfection of Chriſt to be thine (unleſs thou be perfect in iniquity;) and the leaſt child of light ſhall thee judge, who art ſetting the old Covenant above the new, to be judge and tryer of it, which old the Apoſtle denies, to eſtabliſh this new; for the old Covenant made nothing perfect: and there thou art who denyes the perfection of the new to be thine: and here thy ſpirit is tryed, with that which is before the old Covenant was, to be that deluſion of Satan, thou telleſt on, who would try the Covenant of life with that which can give no life, and by ſuch a tryall did the Jews put Chriſt to death for a blaſphemer, by the let<g ref="char:EOLhyphen"/>ter of their Law who was the life of the Law, which life is the end of all laws without; yet herein is not laws without denied, but fulfil<g ref="char:EOLhyphen"/>led in Chriſt, for whom they were written: and thou ſaiſt thou ownes that faith which purifies the heart, and produceth holineſs, within and without, and yet thou denyeſt the perfection of Chriſt to be tbine; or to be impowered by him to do the will of God: and this purity and holineſs which is not thine in Chriſt, and in his power, I deny, and the ground of it I judge with that which is perfect; that this thy holineſs is the ſilthy raggs. And thou talkſt of many things without thee, as a law without, a light without, a word without, and many ſuch words thou uttereſt, but with that eye which is ſin<g ref="char:EOLhyphen"/>gle, which is before the viſible was, art thou ſeen &amp; comprehended, and thy faith that ſtands in viſible things which ſhall periſh, for what is ſeen is temporall, but ſo is not the law, and light, and word which endureth for ever, though thou wouldſt prove the letter to be the word, which was never given forth to be called by the name of God or Chriſt (who are called the word) nor to withſtand the appearance of God or his word, as you would uſe them, as ſome of your rabbies have lately affirmed, that God hath ſpoken his laſt, for
+<pb n="6" facs="tcp:115317:4"/>
+the Scriptures, ſay they, is his laſt will, and no more Revelations ſince the book of <hi>Revelations</hi> was written, and thus Idolizes a viſible thing, and gives it the name of God, and ſets it in his place, and ſaies there is no other way to know God, all which the letter de<g ref="char:EOLhyphen"/>nyes, and declares God to be the word, and exhorts to hear his voice and know it, and ſaith there is not, nor can be any knowledge of God but by Revelation from Jeſus Chriſt which is before the letter was, which the letter declares, but this is the ſpirit of Satan that would ſtop the mouth of God never to ſpeak more, nor that any ſhould wait for it; but he that hath heard the voice of the living God doth bear witneſs in his preſence againſt that ſpirit to be a lying ſpirit, and an enemy to <hi>Abrahams</hi> ſeed and his Faith, who ſtands oppoſing between God and the creatures, to make people believe that they ſhall not have the ſame fellowſhip with God as the ſaints have ever had, but would ſet up the letter in his ſtead, ſpoken forth by them who heard his voice, and declared for that end his word to wait for, and his teachings to witneſs by him to be guided in all things, which ſuch as thou would deny to ſet up the hirelings who never heard his voice, but were ever denyed by them who had the word as the letter declares, and proves all you Lyars who puts the Lord farre from you in theſe later dayes, which, ſaith in the latter dayes, he will pour out his ſpirit more abundantly and that the knowledge of God ſhall cover the earth, which is witneſ<g ref="char:EOLhyphen"/>ſed by hundreds who from the mouthes of the wolves and lyars are ſet free, which whilſt we were under them we could not believe, and we know whom we worſhip and his power, and all the ly<g ref="char:EOLhyphen"/>ars in the world cannot make us deny him, nor his work in us, who is bleſſed for ever: And thy doubtfull queries are anſwered, and with the ſpirit we are taught, this faith to hold forth, and with meekneſs they are ſhewed, and in that wiſdome that is fooliſhneſs to the world and ever was, and his vertues who hath called us out of darkneſs into light, and this faith worketh by love to all the crea<g ref="char:EOLhyphen"/>tures of God, and by it we are conſtrained to call all to this love, for which we ſuffer in you Streets, Markets, and Synagogues, in a ſpirit of meekneſs, and this we have learned of him, which is more then thou knoweſt (as thou ſayeſt) for if thou knew thou would not have a hand, in which thou art deeply ingaged as thou ſayes, And it is utterly in vain to write or ſpeak againſt this faith, for therein thou ſhewes but thy folly, and what generation thou art of, who calls this perverted which the ſaints practiſed, and thou that doubts art damned in thy own conſcience, and being deluded to believe
+<pb n="7" facs="tcp:115317:4"/>
+lies, thou art rejected and ſteadfaſtly reſiſted in the faith, who art under the power of Satan, bringing forth his works, who ſaith we in works deny God, and that we know not what the reſurre<g ref="char:EOLhyphen"/>ction of the dead means, and then ſayes thou w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lt not abſolutely determine nor judge of us, and here thou haſt told three lyes to<g ref="char:EOLhyphen"/>gether, and its eaſie to determine, who is that vaſſal (thou ſpeaks on) led captive at his will, And the word of God we have, and his law, written in our hearts which condemnes all ſuch practiſes; And the fruits of love ſuch could never diſcerne, nor the end of the Com<g ref="char:EOLhyphen"/>mandement, but under pretence of charity would be flattered in their ſins: And we know Chriſt to be in us without thy compari<g ref="char:EOLhyphen"/>ſons, and by his ſpirit are we led, which if thou was ſo thou durſt not lie and ſlander as thou doeſt, nor have reſted my words in print<g ref="char:EOLhyphen"/>ing them falſe in thy paper, ſaying, I deny all thoſe laws without, as though I denied the laws of the Nation, when my words is, I deny all whoſe law is without and morall intending your popiſh notions, with which you ſet up the letter to oppoſe the new Co<g ref="char:EOLhyphen"/>venant, yet herein do I deny no Laws in Books which are accord<g ref="char:EOLhyphen"/>ing to this Covenant, but owne them in their place, but not to try the law of life which is in Chriſt, by (as thou wouldſt make it) and here thy crooked wayes are ſeen, ſubtill lying, ſlandering, and perverting my words: and the whited Devil thou tells on, is diſco<g ref="char:EOLhyphen"/>vered in thy ſelf, not in the Quakers as thou ſcornfully calleſt us, and thou haſt the ſeared conſcience thou tells on, elſe aſhamed thou would bee, and to thee I have written and all thy generation, but not for your help, but to help thee to ſee thy folly which to that of God in thy Conſcience, if thou be obedient, it will ſtop thy mouth and let thee ſee thy envy and a buſie mind, ſpeaking evill of that thou knowes not, that thou may appear to be ſome body, but thy work is ſeen, and thy reward alſo: And now ſeeing theſe things thou chiefly oppoſeſt, yet dare not plainly deny them, I ſhall re<g ref="char:EOLhyphen"/>turn the ſum of them by way of Querie, to which in plaineſs that thou anſwer the Yea or the Nay, that thy miſt may be cleared, is the demand of him who is called <hi>James Nayler?</hi>
+            </p>
+            <p>Firſt, Whether that Faith which layes hold of an Imperfect Righteouſneſſe, be Faith in Chriſt, or ſelf righteouſneſs?</p>
+            <p>Whether God can own an Imperfect Righteouſneſs for ſalva<g ref="char:EOLhyphen"/>tion, or is any perfect but that of Chriſt?</p>
+            <p>Whether God have given Chriſt with his righteouſneſſe and perfection, freely to all that receive him?</p>
+            <p>Whether Chriſt ſo given, and by faith received, be properly
+<pb n="8" facs="tcp:115317:5"/>
+ours with all he hath, in the meaſure ſo received?</p>
+            <p>Whether any one can be born of God and not have the life of Chriſt in him, and abiding in him? whether he commit ſin or no?</p>
+            <p>Whether the Law of the new Covenant be written in the heart? And whether the Apoſtle denied the Old to Eſtabliſh the New? and whether of them is the believers rule and freedome?</p>
+            <p>Whether the hope of Chriſt purifies the heart? and is not that the hope of thee hippocrite that hopes to be ſaved, but lives in ſin and worldly pleaſures? and whether that be the life of Chriſt, yea or nay?</p>
+            <p>Whether every one that hath received Chriſt, hath received power to reſiſt the devil and to do the wills of God in his meaſure, and if ſuch commit ſin, whether it be want of power, or denying the power, ſeing the greater is in us then in the world?</p>
+            <p>Whether they that are called of men Maſters, love greeting in Markets, Chief place in Aſſemblies, ſue for tithes, or ſet wages, bear rule by their means, Impriſon the Innocent, be thoſe labourers Chriſt hath thruſt out into his vineyard: Or do theſe fruits prove them ſo, ſeing Chriſt ſaith by their fruits you ſhall know them?</p>
+            <p>Whether the end of Chriſts coming be to redeem his people from their ſins in this life, or are they believers that deny it?</p>
+            <p>Whether the ſpirit of God teacheth to call Chriſt ours, and his righteonſneſſe ours; but to deny his perfection to be ours?</p>
+            <p>Whether the letter be that word and light of <hi>John,</hi> Chriſt, and the Apoſtles bear witneſs on, yea or nay?</p>
+            <p>Whether plain dealing be pure love, ſeing thou pretendeſt Charity to ſpare the wicked?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
